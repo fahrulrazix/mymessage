@@ -12,7 +12,7 @@ export const Header = () => {
 
             <div className="flex gap-7 items-center">
               <p>CRUD</p>
-              <p>ASSIGN 4</p>
+              <p>ASSIGNMENT 4</p>
             </div>
           </nav>
         </section>
